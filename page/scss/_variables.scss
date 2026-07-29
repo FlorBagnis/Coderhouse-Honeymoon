@@ -1,0 +1,46 @@
+// Colores principales
+$rosa: #E75480;
+$rosa-claro: #FFD6E7;
+$rosa-pastel: #FFF0F6;
+$blanco: #FFFFFF;
+$texto: #4A4A4A;
+
+// Tipografía
+$fuente: "Poppins", sans-serif;
+
+@mixin boton-rosa {
+    background-color: $rosa;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    font-weight: 600;
+    transition: .3s;
+
+    &:hover {
+        background-color: #d94472;
+        transform: translateY(-3px);
+    }
+}
+
+%tarjeta {
+    border-radius: 20px;
+    border: 2px solid $rosa-claro;
+    box-shadow: 0 8px 20px rgba(231,84,128,.12);
+}
+
+@mixin boton-rosa {
+    background-color: $rosa;
+    color: white;
+    border: none;
+    border-radius: 30px;
+    padding: 12px 30px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all .3s ease;
+
+    &:hover {
+        background-color: darken($rosa, 10%);
+        transform: scale(1.05);
+        box-shadow: 0 8px 18px rgba(231,84,128,.35);
+    }
+}

@@ -1,0 +1,27 @@
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .navbar ul {
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+        gap: 12px;
+    }
+
+    .pagina-nosotros {
+        grid-template-columns: 1fr;
+        margin: 20px;
+        padding: 40px 20px;
+    }
+
+    .nosotros-texto h1 {
+        font-size: 38px;
+    }
+
+    .valores-grid {
+        grid-template-columns: 1fr;
+    }
+}

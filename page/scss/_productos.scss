@@ -1,0 +1,139 @@
+.encabezado-productos {
+    padding: 80px 20px 50px;
+    text-align: center;
+    background-color: $rosa-pastel;
+
+    span {
+        display: inline-block;
+        margin-bottom: 15px;
+        padding: 8px 18px;
+        background-color: $rosa-claro;
+        border-radius: 20px;
+        color: $texto;
+        font-weight: 600;
+    }
+
+    h1 {
+        margin-bottom: 15px;
+        color: $rosa;
+        font-size: 48px;
+    }
+
+    p {
+        max-width: 650px;
+        margin: 0 auto;
+        color: $texto;
+        line-height: 1.7;
+    }
+}
+
+.catalogo-productos {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 70px 20px;
+}
+
+.producto {
+    overflow: hidden;
+    background-color: $blanco;
+    border: 2px solid $rosa-claro;
+    border-radius: 22px;
+    box-shadow: 0 8px 22px rgba(231, 84, 128, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+@extend %tarjeta;
+.producto .btn {
+    @include boton-rosa;
+}
+
+    img {
+        display: block;
+        width: 100%;
+        height: 320px;
+        object-fit: cover;
+    }
+
+    &:hover {
+        transform: translateY(-8px);
+        box-shadow: 0 14px 30px rgba(231, 84, 128, 0.25);
+    }
+}
+
+.producto-info {
+    padding: 25px;
+    text-align: center;
+
+    h2 {
+        margin-bottom: 12px;
+        color: $rosa;
+        font-size: 22px;
+    }
+
+    p {
+        min-height: 50px;
+        margin-bottom: 0;
+        color: $texto;
+        line-height: 1.6;
+    }
+
+    .precio {
+        display: block;
+        margin: 15px 0;
+        color: $texto;
+        font-size: 22px;
+        font-weight: 700;
+    }
+
+    .btn {
+        padding: 10px 24px;
+        background-color: $rosa;
+        border: none;
+        border-radius: 25px;
+        color: $blanco;
+        font-weight: 600;
+        text-decoration: none;
+        transition: transform 0.3s ease, background-color 0.3s ease;
+
+        &:hover {
+            background-color: darken($rosa, 8%);
+            color: $blanco;
+            transform: scale(1.05);
+        }
+    }
+}
+
+@media (max-width: 992px) {
+    .catalogo-productos {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .encabezado-productos {
+        h1 {
+            font-size: 40px;
+        }
+    }
+}
+
+@media (max-width: 576px) {
+    .encabezado-productos {
+        padding: 60px 20px 40px;
+
+        h1 {
+            font-size: 34px;
+        }
+    }
+
+    .catalogo-productos {
+        grid-template-columns: 1fr;
+        padding: 50px 20px;
+    }
+
+    .producto {
+        img {
+            height: 280px;
+        }
+    }
+}
