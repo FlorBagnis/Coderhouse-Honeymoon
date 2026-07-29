@@ -1,9 +1,10 @@
-# 🌸 Honeymoon
+<h1>🌸 Honeymoon</h1>
 
-Proyecto Final del curso **Desarrollo Web** de **Coderhouse**.
+<img width="1854" height="802" alt="image" src="https://github.com/user-attachments/assets/3f4460ee-678a-49b6-ba30-b41d9bc9037d" />
 
-<img width="1854" height="802" alt="image" src="https://github.com/user-attachments/assets/5c0fc211-5f1f-4f6b-a760-c148b33b4c1d" />
-
+<p align="center">
+  <strong>Proyecto Final del curso Desarrollo Web - Coderhouse</strong>
+</p>
 
 Honeymoon es un sitio web responsive desarrollado para una marca ficticia de indumentaria inspirada en la estética **kawaii**. El objetivo del proyecto fue aplicar los conocimientos adquiridos durante el curso, utilizando buenas prácticas de desarrollo web, diseño responsive y organización del código.
 
