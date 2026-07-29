@@ -1,0 +1,64 @@
+# 🌸 Honeymoon
+
+Proyecto Final del curso **Desarrollo Web** de **Coderhouse**.
+
+<img width="1854" height="802" alt="image" src="https://github.com/user-attachments/assets/5c0fc211-5f1f-4f6b-a760-c148b33b4c1d" />
+
+
+Honeymoon es un sitio web responsive desarrollado para una marca ficticia de indumentaria inspirada en la estética **kawaii**. El objetivo del proyecto fue aplicar los conocimientos adquiridos durante el curso, utilizando buenas prácticas de desarrollo web, diseño responsive y organización del código.
+
+## 🚀 Demo
+
+🔗 https://honeymoon-eight-nu.vercel.app/index.html
+
+## 📂 Repositorio
+
+🔗 https://github.com/FlorBagnis/coderhouse-honeymoon
+
+## ✨ Características
+
+- Diseño responsive para dispositivos móviles, tablets y escritorio.
+- Navegación intuitiva.
+- Catálogo de productos.
+- Sección "Nosotros".
+- Formulario de contacto.
+- Animaciones y efectos visuales.
+- Código organizado mediante SASS.
+
+## 🛠️ Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- SASS
+- Bootstrap 5
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📚 Objetivos del proyecto
+
+Durante este proyecto se aplicaron conceptos como:
+
+- HTML semántico.
+- CSS moderno.
+- Flexbox.
+- CSS Grid.
+- Responsive Design.
+- Bootstrap.
+- SASS (partials, variables, nesting y mixins).
+- Optimización de imágenes.
+- Accesibilidad básica.
+- SEO básico.
+- Control de versiones con Git y GitHub.
+
+## 👩‍💻 Autora
+
+**Florencia Bagnis**
+
+- 💼 LinkedIn: https://www.linkedin.com/in/florencia-bagnis-5043aa152/
+- 💻 Portfolio: https://florbagnis.github.io/
+- 📧 Email: florenciasoledadbagnis@gmail.com
+
+---
+
+### 🎓 Proyecto desarrollado como entrega final del curso de Desarrollo Web en Coderhouse.
