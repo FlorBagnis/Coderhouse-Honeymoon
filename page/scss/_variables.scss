@@ -36,11 +36,16 @@ $fuente: "Poppins", sans-serif;
     padding: 12px 30px;
     font-weight: 600;
     cursor: pointer;
-    transition: all .3s ease;
+    transition: all 0.3s ease;
 
     &:hover {
-        background-color: darken($rosa, 10%);
+        background-color: #d13f6c;
         transform: scale(1.05);
-        box-shadow: 0 8px 18px rgba(231,84,128,.35);
+        box-shadow: 0 8px 18px rgba(231, 84, 128, 0.35);
+    }
+
+    &:active {
+        transform: scale(0.95);
+        box-shadow: 0 4px 10px rgba(231, 84, 128, 0.25);
     }
 }
