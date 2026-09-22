@@ -56,7 +56,7 @@ Durante este proyecto se aplicaron conceptos como:
 
 **Florencia Bagnis**
 
-- 💼 LinkedIn: https://www.linkedin.com/in/florencia-bagnis-5043aa152/
+- 💼 LinkedIn: https://www.linkedin.com/in/florencia-bagnis
 - 💻 Portfolio: https://florbagnis.github.io/Portfolio-FlorBagnis/
 - 📧 Email: florenciasoledadbagnis@gmail.com
 
