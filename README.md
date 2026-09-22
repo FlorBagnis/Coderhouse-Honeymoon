@@ -2,11 +2,19 @@
 
 <img width="1854" height="802" alt="image" src="https://github.com/user-attachments/assets/3f4460ee-678a-49b6-ba30-b41d9bc9037d" />
 
+
+>Honeymoon es un sitio web responsive desarrollado para una marca ficticia de indumentaria inspirada en la estética **kawaii**. El objetivo del proyecto fue aplicar los conocimientos adquiridos durante el curso, utilizando buenas prácticas de desarrollo web, diseño responsive y organización del código.
+
+
 <p align="center">
   <strong>Proyecto Final del curso Desarrollo Web - Coderhouse</strong>
 </p>
 
->Honeymoon es un sitio web responsive desarrollado para una marca ficticia de indumentaria inspirada en la estética **kawaii**. El objetivo del proyecto fue aplicar los conocimientos adquiridos durante el curso, utilizando buenas prácticas de desarrollo web, diseño responsive y organización del código.
+<p align="center">
+  <a href="https://honeymoon-eight-nu.vercel.app/index.html">
+    <img src="https://img.shields.io/badge/Ver_Demo-Abrir_Proyecto-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo" />
+  </a>
+</p>
 
 ## 🚀 Demo
 
