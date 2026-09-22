@@ -6,7 +6,7 @@
   <strong>Proyecto Final del curso Desarrollo Web - Coderhouse</strong>
 </p>
 
-Honeymoon es un sitio web responsive desarrollado para una marca ficticia de indumentaria inspirada en la estética **kawaii**. El objetivo del proyecto fue aplicar los conocimientos adquiridos durante el curso, utilizando buenas prácticas de desarrollo web, diseño responsive y organización del código.
+>Honeymoon es un sitio web responsive desarrollado para una marca ficticia de indumentaria inspirada en la estética **kawaii**. El objetivo del proyecto fue aplicar los conocimientos adquiridos durante el curso, utilizando buenas prácticas de desarrollo web, diseño responsive y organización del código.
 
 ## 🚀 Demo
 
