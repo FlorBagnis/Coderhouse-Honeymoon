@@ -52,14 +52,17 @@ Durante este proyecto se aplicaron conceptos como:
 - SEO básico.
 - Control de versiones con Git y GitHub.
 
-## 👩‍💻 Autora
-
-**Florencia Bagnis**
-
-- 💼 LinkedIn: https://www.linkedin.com/in/florencia-bagnis
-- 💻 Portfolio: https://florbagnis.github.io/Portfolio-FlorBagnis/
-- 📧 Email: florenciasoledadbagnis@gmail.com
 
 ---
 
-### 🎓 Proyecto desarrollado como entrega final del curso de Desarrollo Web en Coderhouse.
+### 👩‍💻 Autora
+
+**Florencia Bagnis**
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/florencia-bagnis)
+* 💻 [Portfolio](https://florbagnis.github.io/Portfolio-FlorBagnis/)
+* 💌 [florenciasoledadbagnis@gmail.com](mailto:florenciasoledadbagnis@gmail.com)
+
+<br>
+
+> 🎓 Proyecto desarrollado como entrega final del curso de **Desarrollo Web** en **Coderhouse**, enfocado en **HTML5**, **CSS3**, **SASS**, **Bootstrap** y buenas prácticas de diseño **responsive**.
